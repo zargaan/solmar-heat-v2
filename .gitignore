@@ -1,0 +1,4 @@
+out/game/
+out/screenshots/
+session-*.jsonl
+muse-usage.jsonl
